@@ -12,6 +12,10 @@
     {
       "name": "Lukasz Szmit",
       "email": "lukasz.szmit@workday.com"
+    },
+    {
+      "name": "Hippolyte Vergnol",
+      "email": "hippolyte.vergnol@planete-oui.fr"
     }
   ],
   "main": "lib/index",
@@ -25,7 +29,8 @@
   "keywords": [
     "testcafe",
     "browser provider",
-    "plugin"
+    "plugin",
+    "puppeteer"
   ],
   "license": "MIT",
   "dependencies": {
