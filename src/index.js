@@ -16,6 +16,7 @@ export default {
     if (!this.browser) {
       const launchArgs = {
         timeout: 0,
+        protocolTimeout: 0,
         headless: 'new',
       };
 
