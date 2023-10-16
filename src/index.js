@@ -15,7 +15,7 @@ export default {
     const browserArgs = browserName.split(':');
     if (!this.browser) {
       const launchArgs = {
-        timeout: 10000,
+        timeout: 0,
         headless: 'new',
       };
 
