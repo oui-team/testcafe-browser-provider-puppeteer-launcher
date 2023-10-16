@@ -26,8 +26,7 @@
     "test": "cd test && npm test",
     "build": "gulp build",
     "lint": "rome ci .",
-    "lint-fix": "rome check . --apply && rome format . --write",
-    "artifactregistry-login": "npx google-artifactregistry-auth"
+    "lint-fix": "rome check . --apply && rome format . --write"
   },
   "keywords": [
     "testcafe",

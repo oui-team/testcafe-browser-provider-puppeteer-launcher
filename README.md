@@ -69,7 +69,7 @@ gcloud artifacts print-settings npm --project=bcm-energy-production --scope=@elm
 ```
 Then run:
 ```sh
-npm run artifactregistry-login
+npx google-artifactregistry-auth
 ```
 
 Then publish
