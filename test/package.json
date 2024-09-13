@@ -4,7 +4,7 @@
   "description": "e2e tests",
   "main": "test.js",
   "scripts": {
-    "test": "npm ci && testcafe \"puppeteer-launcher:no_sandbox:emulate=Pixel 5\" test.js -s ./"
+    "test": "npm ci && testcafe \"puppeteer-launcher:no_sandbox:emulate=Pixel 8\" test.js -s ./"
   },
   "author": "jacek@dobosz.at",
   "license": "ISC",
