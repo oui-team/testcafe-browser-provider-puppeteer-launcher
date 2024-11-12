@@ -1,5 +1,12 @@
 # testcafe-browser-provider-puppeteer-launcher
 
+---
+
+> [!WARNING]  
+> This browser provider is deprecated as it is no longer being maintained.
+
+---
+
 Yet another [puppeteer](https://github.com/GoogleChrome/puppeteer)/chromium browser provider plugin for [TestCafe](http://devexpress.github.io/testcafe).
 It allows to run tastcafe e2e tests headless in CI pipeline without any external dependency like xvfb, since everything what is needed is installed via npm.
 
