@@ -47,7 +47,7 @@
     "babel-plugin-add-module-exports": "^1.0.4",
     "del": "^6.0.0",
     "glob-parent": "^6.0.2",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-mocha": "^8.0.0",
     "node-version": "^2.0.0",
